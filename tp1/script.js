@@ -171,5 +171,10 @@ deleves.push(student4);
 // Affiche le nouveau nombre d'élèves dans la classe
 console.log("Nouveau nombre d eleves : " + deleves.length);
 
-//
+
+
+
+
+
+
 
