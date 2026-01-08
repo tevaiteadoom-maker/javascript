@@ -177,4 +177,3 @@ console.log("Nouveau nombre d eleves : " + deleves.length);
 
 
 
-
