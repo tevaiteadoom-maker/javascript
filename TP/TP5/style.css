@@ -1,0 +1,13 @@
+/* Reset simple */
+.player {
+    width: 64px;
+    height: 64px; 
+
+    background-image: url("character-spritesheet.png");
+    background-repeat: no-repeat;
+
+    background-position: -128px -64px;
+
+    background-size: auto;
+
+}
